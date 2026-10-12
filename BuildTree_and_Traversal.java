@@ -30,13 +30,11 @@ class Tree {
         while (!q.isEmpty() && i < arr.length) {
             Node curr = q.poll();
 
-
             if (i < arr.length && arr[i] != -1) {
                 curr.left = new Node(arr[i]);
                 q.add(curr.left);
             }
             i++;
-
 
             if (i < arr.length && arr[i] != -1) {
                 curr.right = new Node(arr[i]);
@@ -46,6 +44,18 @@ class Tree {
         }
     }
 
+    // Preorder: Root -> Left -> Right
+    void preorder(Node root) {
+        if (root == null) {
+            return;
+        }
+
+        System.out.print(root.data + " ");
+        preorder(root.left);
+        preorder(root.right);
+    }
+
+    // Inorder: Left -> Root -> Right
     void inorder(Node root) {
         if (root == null) {
             return;
@@ -54,6 +64,17 @@ class Tree {
         inorder(root.left);
         System.out.print(root.data + " ");
         inorder(root.right);
+    }
+
+    // Postorder: Left -> Right -> Root
+    void postorder(Node root) {
+        if (root == null) {
+            return;
+        }
+
+        postorder(root.left);
+        postorder(root.right);
+        System.out.print(root.data + " ");
     }
 }
 
@@ -74,8 +95,14 @@ public class Main {
         Tree tree = new Tree();
         tree.buildTree(arr);
 
-        System.out.println("Inorder Traversal:");
+        System.out.print("Preorder Traversal: ");
+        tree.preorder(tree.root);
+
+        System.out.print("\nInorder Traversal: ");
         tree.inorder(tree.root);
+
+        System.out.print("\nPostorder Traversal: ");
+        tree.postorder(tree.root);
 
         sc.close();
     }
