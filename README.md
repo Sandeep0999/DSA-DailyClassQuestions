@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
