@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0047-permutations-ii) |
 ## Sorting
@@ -48,4 +50,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
