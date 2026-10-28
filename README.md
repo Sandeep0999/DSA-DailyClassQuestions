@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0047-permutations-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
