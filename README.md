@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0047-permutations-ii) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0200-number-of-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0209-minimum-size-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
