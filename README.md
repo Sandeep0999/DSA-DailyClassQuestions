@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Tree
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -121,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandeep0999/DSA-DailyClassQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
